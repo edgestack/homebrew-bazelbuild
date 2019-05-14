@@ -3,7 +3,9 @@ This script is for installing `Bazel Build Tool` into MacOS through brew. The mo
 
 ## Usage
 `$ brew tap sonaproject/bazelbuild`
+
 `$ brew tap-pin sonaproject/bazelbuild`
+
 `$ brew install bazel@VERSION`
 
 VERSION needs to be replaced by the version of bazel that you would like to install.
