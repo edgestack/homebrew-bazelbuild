@@ -12,7 +12,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-class BazelAT200 < Formula
+class BazelAT210 < Formula
   desc "Fast, scalable, multi-language and extensible build system"
   homepage "https://bazel.build/"
   url "https://releases.bazel.build/2.1.0/release/bazel-2.1.0-installer-darwin-x86_64.sh", :using => :nounzip
